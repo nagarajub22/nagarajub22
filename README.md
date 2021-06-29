@@ -7,6 +7,8 @@
       
 👀 I’m interested in ...
 
+      - Front end Development
+      - Freelancing
       - Video Editing,
       - 3d render, WebGL      
     
