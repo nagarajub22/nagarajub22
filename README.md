@@ -1,6 +1,6 @@
 👋 Hi, I’m @nagarajub22
       
-      A Passionate fullstack developer with experience over 8 years staying in India.
+      A Passionate fullstack developer with experience over 8 years based in India.
       Handson in Angular/React, WebGL, Java, Nodejs, Javascript, Redux, Typescript, Databases.
       
       A part time freelancer doing Frontend Development for clients and love to do more....
